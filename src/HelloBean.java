@@ -1,6 +1,6 @@
 public class HelloBean {
 
-    private String hello = "hello world";
+    private String hello = "hello";
 
     public void setHello(String hello){
         this.hello = hello;
