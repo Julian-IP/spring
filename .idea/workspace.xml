@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e82e7a2f-93d5-4e33-8850-34abdda2d413" name="Default" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SpringTesting/HelloBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SpringTesting/Modifier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SpringTesting/SpringTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bye.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,13 +31,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hello.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Hello.java">
+      <file leaf-file-name="Bye.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bye.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Good.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Good.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="SpringTest.java" pinned="false" current-in-tab="false">
@@ -93,8 +96,8 @@
         <option value="$PROJECT_DIR$/src/Modifier.java" />
         <option value="$PROJECT_DIR$/src/SpringTest.java" />
         <option value="$PROJECT_DIR$/src/Hello.java" />
-        <option value="$PROJECT_DIR$/src/HelloBean.java" />
         <option value="$PROJECT_DIR$/src/Bad.java" />
+        <option value="$PROJECT_DIR$/src/HelloBean.java" />
       </list>
     </option>
   </component>
@@ -108,10 +111,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="582" />
+    <option name="x" value="447" />
     <option name="y" value="23" />
-    <option name="width" value="710" />
-    <option name="height" value="653" />
+    <option name="width" value="845" />
+    <option name="height" value="547" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -231,7 +234,7 @@
       <option name="presentableId" value="Default" />
       <updated>1526896639786</updated>
       <workItem from="1526896666831" duration="5409000" />
-      <workItem from="1527318676094" duration="11343000" />
+      <workItem from="1527318676094" duration="12460000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1527337749754</created>
@@ -247,15 +250,21 @@
       <option name="project" value="LOCAL" />
       <updated>1527346551264</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second commit">
+      <created>1527412714633</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527412714633</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16752000" />
+    <option name="totallyTimeSpent" value="17869000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="582" y="23" width="710" height="653" extended-state="0" />
-    <editor active="true" />
+    <frame x="447" y="23" width="845" height="547" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -263,16 +272,16 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.25633803" side_tool="true" visible="true" weight="0.49913645" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.25680473" side_tool="true" visible="true" weight="0.4524313" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.743662" visible="true" weight="0.49913645" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.7431953" visible="true" weight="0.4524313" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3366197" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28284022" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -374,13 +383,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bye.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hi.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -398,17 +400,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Good.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Thankyou.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -425,12 +427,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hello.java">
+    <entry file="file://$PROJECT_DIR$/src/Bye.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Good.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
